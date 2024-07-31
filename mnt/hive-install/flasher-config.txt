@@ -11,4 +11,5 @@ SHUTDOWN_AFTER_FLASHING=1
 # Set this var to 1 to enable
 APPEND_STATIC_IP_TO_NAME=1
 
+# Go to your account on the web and find FARM_HASH value.
 FARM_HASH=
