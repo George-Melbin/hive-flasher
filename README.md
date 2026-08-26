@@ -3,7 +3,7 @@
 ![how it looks like](https://user-images.githubusercontent.com/38013470/45325818-a2ee2400-b55a-11e8-9905-6072a9d904b2.png)
 
 
-This is a bulk flashing utility which will help you to do 
+This is a bulk flashing utility which will help you to do .
 headless and keyboardless migration to Hive of your farm.
 
 You can find prebuild image here http://download.hiveos.farm/
