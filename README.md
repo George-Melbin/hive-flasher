@@ -80,3 +80,5 @@ You can make flasher image by yourself with the following steps.
 - After boot the script will detect rig's drive and hive flash image there with and precreate rig.conf
 - ...
 - PROFIT
+
+- Version : 1.2.02
